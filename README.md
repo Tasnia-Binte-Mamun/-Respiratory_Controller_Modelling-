@@ -11,3 +11,11 @@ Since the metabolic consumption rate of O2 and the metabolic elimination rate of
 #### Implemented Simulink model-
 
 <img src="Images\Implemented Simulink model.png" alt="Image" width="600" height="250"/>
+
+#### Observation under normoxic condition-
+
+<img src="Images\Normoxia graph.png" alt="Image" width="600" height="250"/>
+
+#### Observation under hypoxia condition-
+
+<img src="Images\hypoxia graph.png" alt="Image" width="600" height="250"/>
