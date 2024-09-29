@@ -19,3 +19,9 @@ Since the metabolic consumption rate of O2 and the metabolic elimination rate of
 #### Observation under hypoxia condition-
 
 <img src="Images\hypoxia graph.png" alt="Image" width="600" height="250"/>
+
+Steady state is achieved under 6L/min which matches with the practical value of ventilation rate under normal condition.
+
+• Steady state under hypoxia is 6.1 L/min which is close to the steady state value achieved under normal condition. This is due to the negative feedback system for decresing PACO2 when ventilation rate increases.
+
+• Initially when ventilation rate is low, PAO2 is low and PACO2 is high. At steady state PAO2 level increased and PACO2 level decreased.
